@@ -1,1 +1,1 @@
-"new Hot fix"
+New Hot fix
